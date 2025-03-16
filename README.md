@@ -51,8 +51,8 @@ L'objectif du projet est d'implémenter cette structure en Java, puis de la test
 
 1. **Cloner le dépôt**
    ```sh
-   git clone https://github.com/username/queue-bornee-entiers.git
-   cd queue-bornee-entiers
+   git clone https://github.com/Fhamza03/QueueBornee.git
+   cd QueueBornee
    ```
 
 2. **Compiler et exécuter les tests avec Maven**
